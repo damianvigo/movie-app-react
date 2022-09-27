@@ -1,2 +1,6 @@
-# practical-react
-Project of the Practical React
+# Movie-app
+
+- Reactjs
+- Redux
+- Sass
+- React Router DOM v5
